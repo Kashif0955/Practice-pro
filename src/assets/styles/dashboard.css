@@ -1,0 +1,43 @@
+/* AdminDashboard.css */
+.sidebar {
+    background: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 0.5rem;
+    padding: 1rem;
+    color: white;
+  }
+  
+  .card.blue {
+    background: #007bff;
+  }
+  
+  .card.green {
+    background: #28a745;
+  }
+  
+  .card.orange {
+    background: #fd7e14;
+  }
+  
+  .card.red {
+    background: #dc3545;
+  }
+  
+  .projects-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1rem;
+  }
+  
+  .projects-table {
+    width: 100%;
+  }
+  
+  .chart {
+    margin-bottom: 2rem;
+  }
+  
